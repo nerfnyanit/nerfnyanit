@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi, I'm nerfnyanit 👋
 
-<!--
-**nerfnyanit/nerfnyanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フロントエンドエンジニアを目指して学習・個人開発を行っています。  
+React / Next.js を中心に、実際に動くアプリケーションの開発を通して理解を深めています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+
+**Styling**
+- Tailwind CSS
+
+**Tools**
+- Git / GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio Site
+自己紹介と制作物をまとめたポートフォリオサイトです。
+
+- 使用技術：Next.js / TypeScript / Tailwind CSS  
+- GitHub：https://github.com/nerfnyanit/portfolio  
+
+---
+
+### 🔹 個人開発・学習プロジェクト
+- React / Next.js の理解を深めるための小規模アプリ開発
+- コンポーネント設計や状態管理を意識して実装
+
+---
+
+## 📘 Learning & Policy
+
+- 写経だけで終わらせず、自分で考えて実装することを重視
+- 「なぜ動くのか」を調べながら理解を深める
+- 小さくても最後まで完成させることを意識
+
+---
+
+## 📌 Currently
+
+- Next.js（App Router）の理解を深めている
+- TypeScriptを用いた実装に慣れるため、個人開発を継続中
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/nerfnyanit
+- Gmail: nerfnyanit@gmail.com
+- X (Twitter): https://x.com/nerfnyanit
