@@ -1,7 +1,8 @@
 ## Hi, I'm nerfnyanit 👋
 
 フロントエンドエンジニアを目指して学習・個人開発を行っています。  
-React / Next.js を中心に、実際に動くアプリケーションの開発を通して理解を深めています。
+React / Next.js を中心に、**最近は Express.js・MongoDB を用いたバックエンド開発にも取り組み**、  
+フロントからバックエンドまで一連の流れを理解することを目標にしています。
 
 ---
 
@@ -9,8 +10,14 @@ React / Next.js を中心に、実際に動くアプリケーションの開発�
 
 **Frontend**
 - React
-- Next.js
+- Next.js（App Router）
 - TypeScript
+
+**Backend（Learning）**
+- Express.js
+- MongoDB
+- REST API 設計
+- 認証（JWT / Cookie）
 
 **Styling**
 - Tailwind CSS
@@ -34,6 +41,8 @@ React / Next.js を中心に、実際に動くアプリケーションの開発�
 ### 🔹 個人開発・学習プロジェクト
 - React / Next.js の理解を深めるための小規模アプリ開発
 - コンポーネント設計や状態管理を意識して実装
+- **Express.js + MongoDB を用いた API 開発・データ管理の学習**
+- フロントエンドとバックエンドを分離した構成に挑戦中
 
 ---
 
@@ -42,13 +51,15 @@ React / Next.js を中心に、実際に動くアプリケーションの開発�
 - 写経だけで終わらせず、自分で考えて実装することを重視
 - 「なぜ動くのか」を調べながら理解を深める
 - 小さくても最後まで完成させることを意識
+- フロントエンドだけでなく、**アプリ全体の仕組みを理解することを大切にしている**
 
 ---
 
 ## 📌 Currently
 
 - Next.js（App Router）の理解を深めている
-- TypeScriptを用いた実装に慣れるため、個人開発を継続中
+- TypeScript を用いた実装に慣れるため、個人開発を継続中
+- **Express.js / MongoDB を用いたログイン機能・CRUD API の学習**
 
 ---
 
