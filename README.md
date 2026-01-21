@@ -1,7 +1,7 @@
 ## Hi, I'm nerfnyanit 👋
 
 フロントエンドエンジニアを目指して学習・個人開発を行っています。  
-React / Next.js を中心に、**最近は Express.js・MongoDB を用いたバックエンド開発にも取り組み**、  
+React / Next.js を中心に、**最近は Express.js・MongoDB・Supabase を用いたバックエンド開発にも取り組み**、  
 フロントからバックエンドまで一連の流れを理解することを目標にしています。
 
 ---
@@ -14,6 +14,7 @@ React / Next.js を中心に、**最近は Express.js・MongoDB を用いたバ�
 - TypeScript
 
 **Backend（Learning）**
+- Supabase
 - Express.js
 - MongoDB
 - REST API 設計
