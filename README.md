@@ -15,10 +15,6 @@ React / Next.js を中心に、**最近は Express.js・MongoDB・Supabase を�
 
 **Backend（Learning）**
 - Supabase
-- Express.js
-- MongoDB
-- REST API 設計
-- 認証（JWT / Cookie）
 
 **Styling**
 - Tailwind CSS
