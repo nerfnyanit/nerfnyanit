@@ -57,9 +57,17 @@
 ---
 
 ## 📌 Currently
+
 - JavaScript の基礎力強化
 - Next.js（App Router）・TypeScript を用いた個人開発を継続中
-- AWS Certified Cloud Practitioner（CLF-C02）取得に向けて学習中
+- AWS Certified Cloud Practitioner（CLF-C02）取得済み。JP1・LinuC Level 1 の学習も予定
+
+---
+
+## 🎯 Next Challenge
+
+フロントエンド開発を軸としながら、インフラ・クラウド領域にも関心があります。
+AWS認定資格を活かし、ユーザー体験と基盤の両面を理解したエンジニアを目指しています。
 
 ---
 
