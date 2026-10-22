@@ -1,13 +1,7 @@
 ## Hi, I'm nerfnyanit 👋
-フロントエンドエンジニアを目指して学習・個人開発を行っています。
-現在は業務でC++システムの保守と、次世代システムへの移行に携わりながら、React / Next.js を中心にフロントエンドの学習を継続中。
-直近は **JavaScript の基礎を深堀り**しています。
-
----
-
-## 💼 Work
-- C++を用いたレガシーシステムの保守
-- 業務を通じて、システム全体の設計・移行プロセスへの理解を深めている
+フルスタックエンジニアを目指して学習・個人開発を行っています。
+フロントエンドは React / Next.js / TypeScript を自主学習し、インフラ・ネットワーク領域では資格取得を通じて基礎を固めています。
+現在は **CCNA** の学習中です。
 
 ---
 
@@ -18,8 +12,10 @@
 - Next.js（App Router）
 - TypeScript
 
-**Backend（Learning）**
-- Supabase
+**Infrastructure / Network**
+- AWS
+- Linux
+- ネットワーク基礎（CCNA学習中）
 
 **Styling**
 - Tailwind CSS
@@ -31,12 +27,25 @@
 
 ---
 
+## 📜 Certifications
+- AWS Certified Cloud Practitioner（CLF-C02）
+- LinuC Level 1
+- CCNA（学習中）
+
+---
+
 ## 🚀 Projects
 
 ### 🔹 Portfolio Site
 自己紹介と制作物をまとめたポートフォリオサイトです。
 - 使用技術：Next.js / TypeScript / Tailwind CSS
 - GitHub：https://github.com/nerfnyanit/portfolio
+
+---
+
+### 🔹 Linuxサーバー構築ポートフォリオ（作成予定）
+Linuxサーバーを立てるまでの一通りのプロセスをまとめたポートフォリオです。
+- 環境構築から公開までの手順を、つまずいた点も含めて記録予定
 
 ---
 
@@ -56,17 +65,14 @@
 ---
 
 ## 📌 Currently
-
-- JavaScript の基礎力強化
-- Next.js（App Router）・TypeScript を用いた個人開発を継続中
-- AWS Certified Cloud Practitioner（CLF-C02）取得済み。JP1・LinuC Level 1 の学習も予定
+- CCNA の学習
+- React / Next.js / TypeScript の自主学習・個人開発を継続中
+- Linuxサーバー構築ポートフォリオの準備
 
 ---
 
 ## 🎯 Next Challenge
-
-フロントエンド開発を軸としながら、インフラ・クラウド領域にも関心があります。
-AWS認定資格を活かし、ユーザー体験と基盤の両面を理解したエンジニアを目指しています。
+フロントエンドからサーバー・ネットワークまで、アプリが動く仕組みを一通り自分の手で作れるフルスタックエンジニアを目指しています。
 
 ---
 
