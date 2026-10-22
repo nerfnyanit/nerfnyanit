@@ -39,7 +39,7 @@
 ### 🔹 Portfolio Site
 自己紹介と制作物をまとめたポートフォリオサイトです。
 - 使用技術：Next.js / TypeScript / Tailwind CSS
-- GitHub：https://github.com/nerfnyanit/portfolio
+- GitHub：https://github.com/nerfnyanit/frontend-portfolio
 
 ---
 
